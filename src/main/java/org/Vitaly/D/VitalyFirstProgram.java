@@ -111,6 +111,8 @@ public class VitalyFirstProgram {
     private static void practiceLogicalOperators() {
         int a = 5;
         int b = 3;
+        int c = 3;
+
 
         boolean equalTo = (a == b);
         boolean notEqualTo = (a != b);
